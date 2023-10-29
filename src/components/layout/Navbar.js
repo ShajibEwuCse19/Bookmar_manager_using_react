@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-dark bg-secondary">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
-            ReactJS CRUD
+            Bookmark Manager
           </a>
           <button
             className="navbar-toggler"
@@ -40,7 +40,7 @@ const Navbar = () => {
             </ul>
           </div>
 
-          <Link className="btn btn-outline-light w-25" to="/user/add">Add Users</Link>
+          <Link className="btn btn-outline-light w-25" to="/user/add">Add Bookmark</Link>
 
         </div>
       </nav>

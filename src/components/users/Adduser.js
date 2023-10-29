@@ -26,7 +26,7 @@ const Adduser = () => {
   return (
     <div className="container">
       <div className="w-75 mx-auto shadow p-5">
-        <h2 className="text-center mb-4">Add a User</h2>
+        <h2 className="text-center mb-4">Bookmark Informations</h2>
         <form onSubmit={e => onsubmit(e)}>
           <div className="form-group mt-2">
             <input
@@ -79,7 +79,7 @@ const Adduser = () => {
             />
           </div>
           <button className="btn btn-primary btn-block p-2 mt-2">
-            Add User
+            Add Bookmark
           </button>
         </form>
       </div>

@@ -27,9 +27,9 @@ const Home = () => {
           <tr>
             <th scope="col">#</th>
             <th scope="col">Name</th>
-            <th scope="col">User Name</th>
+            <th scope="col">Bookmark User</th>
             <th scope="col">Email</th>
-            <th scope="col">Action</th>
+            <th scope="col">Details Bookmark</th>
           </tr>
         </thead>
         <tbody>
